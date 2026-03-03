@@ -198,16 +198,6 @@ When switching:
 
 ---
 
-## Future Improvements
-
-* Docker support
-* Authentication
-* Multi-user mode
-* Desktop packaging
-* Mobile UI optimization
-
----
-
 ## License
 
 Private project.
